@@ -110,7 +110,7 @@ To analyze Adidas US sales data and develop an interactive Tableau dashboard tha
 
 # 📷 Dashboard Screenshot
 
-![Adidas Sales Dashboard](Dashboard_Screenshots/Adidas_US_Sales_Dashboard.png)
+![Adidas-US-Sales Analysis](Dashboard Screenshot/Adidas Dashboard Screenshot.png)
 
 ---
 
